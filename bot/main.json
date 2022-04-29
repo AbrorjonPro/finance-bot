@@ -1,0 +1,72 @@
+{"Message": {
+    "message_id": 1574,
+    "from": {
+        "id": 462196488,
+        "is_bot": false,
+        "first_name": "𝙰𝚋𝚛𝚘𝚛𝚓𝚘𝚗",
+        "last_name": "𝙰𝚡𝚖𝚊𝚍𝚘𝚟",
+        "username": "AbrorjonAxmadov",
+        "language_code": "en"
+    },
+    "chat": {
+        "id": 462196488,
+        "first_name": "𝙰𝚋𝚛𝚘𝚛𝚓𝚘𝚗",
+        "last_name": "𝙰𝚡𝚖𝚊𝚍𝚘𝚟",
+        "username": "AbrorjonAxmadov",
+        "type": "private"
+    },
+    "date": 1649843683,
+    "reply_to_message": {
+        "message_id": 1573,
+        "from": {
+            "id": 1617387026,
+            "is_bot": true,
+            "first_name": "EVOS Order",
+            "username": "evos_order_bot"
+        },
+        "chat": {
+            "id": 462196488,
+            "first_name": "𝙰𝚋𝚛𝚘𝚛𝚓𝚘𝚗",
+            "last_name": "𝙰𝚡𝚖𝚊𝚍𝚘𝚟",
+            "username": "AbrorjonAxmadov",
+            "type": "private"
+        },
+        "date": 1649843679,
+        "text": "Поделитесь своим номером телефона, чтобы бот мог вас узнать."
+    },
+    "contact": {
+        "phone_number": "+998971661186",
+        "first_name": "𝙰𝚋𝚛𝚘𝚛𝚓𝚘𝚗",
+        "last_name": "𝙰𝚡𝚖𝚊𝚍𝚘𝚟",
+        "user_id": 462196488
+    }
+},
+
+
+
+
+"Message": {
+    "message_id": 1576,
+    "from": {
+        "id": 462196488,
+        "is_bot": false,
+        "first_name": "𝙰𝚋𝚛𝚘𝚛𝚓𝚘𝚗",
+        "last_name": "𝙰𝚡𝚖𝚊𝚍𝚘𝚟",
+        "username": "AbrorjonAxmadov",
+        "language_code": "en"
+    },
+    "chat": {
+        "id": 462196488,
+        "first_name": "𝙰𝚋𝚛𝚘𝚛𝚓𝚘𝚗",
+        "last_name": "𝙰𝚡𝚖𝚊𝚍𝚘𝚟",
+        "username": "AbrorjonAxmadov",
+        "type": "private"
+    },
+    "date": 1649843734,
+    "contact": {
+        "phone_number": "+998982617779",
+        "first_name": "+998982617779",
+        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:+998982617779\nTEL;MOBILE:+998982617779\nEND:VCARD",
+        "user_id": 601377530
+    }
+}}

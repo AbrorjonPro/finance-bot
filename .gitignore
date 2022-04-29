@@ -1,0 +1,9 @@
+media/
+files/
+__pycache__/
+migrations/
+static/
+venv/
+.env
+logs/
+*.log
